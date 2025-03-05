@@ -1,0 +1,15 @@
+D:\G&A&D\Data\Minecraft\Servers\MCServer-CSharp-Edition\bin\Debug\net9.0\MCServer-CSharp-Edition.exe
+D:\G&A&D\Data\Minecraft\Servers\MCServer-CSharp-Edition\bin\Debug\net9.0\MCServer-CSharp-Edition.deps.json
+D:\G&A&D\Data\Minecraft\Servers\MCServer-CSharp-Edition\bin\Debug\net9.0\MCServer-CSharp-Edition.runtimeconfig.json
+D:\G&A&D\Data\Minecraft\Servers\MCServer-CSharp-Edition\bin\Debug\net9.0\MCServer-CSharp-Edition.dll
+D:\G&A&D\Data\Minecraft\Servers\MCServer-CSharp-Edition\bin\Debug\net9.0\MCServer-CSharp-Edition.pdb
+D:\G&A&D\Data\Minecraft\Servers\MCServer-CSharp-Edition\obj\Debug\net9.0\MCServer-CSharp-Edition.GeneratedMSBuildEditorConfig.editorconfig
+D:\G&A&D\Data\Minecraft\Servers\MCServer-CSharp-Edition\obj\Debug\net9.0\MCServer-CSharp-Edition.AssemblyInfoInputs.cache
+D:\G&A&D\Data\Minecraft\Servers\MCServer-CSharp-Edition\obj\Debug\net9.0\MCServer-CSharp-Edition.AssemblyInfo.cs
+D:\G&A&D\Data\Minecraft\Servers\MCServer-CSharp-Edition\obj\Debug\net9.0\MCServer-CSharp-Edition.csproj.CoreCompileInputs.cache
+D:\G&A&D\Data\Minecraft\Servers\MCServer-CSharp-Edition\obj\Debug\net9.0\MCServer-CSharp-Edition.sourcelink.json
+D:\G&A&D\Data\Minecraft\Servers\MCServer-CSharp-Edition\obj\Debug\net9.0\MCServer-CSharp-Edition.dll
+D:\G&A&D\Data\Minecraft\Servers\MCServer-CSharp-Edition\obj\Debug\net9.0\refint\MCServer-CSharp-Edition.dll
+D:\G&A&D\Data\Minecraft\Servers\MCServer-CSharp-Edition\obj\Debug\net9.0\MCServer-CSharp-Edition.pdb
+D:\G&A&D\Data\Minecraft\Servers\MCServer-CSharp-Edition\obj\Debug\net9.0\MCServer-CSharp-Edition.genruntimeconfig.cache
+D:\G&A&D\Data\Minecraft\Servers\MCServer-CSharp-Edition\obj\Debug\net9.0\ref\MCServer-CSharp-Edition.dll
